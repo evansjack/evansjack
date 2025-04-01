@@ -1,4 +1,4 @@
-### Hi, I'm Jack👋
+### Hi, I'm Jack Evans👋
 
 <br>
 <p>I am currently a <strong>student,</strong> previously working as a <strong><code>UI/UX Designer</code></strong></p>
